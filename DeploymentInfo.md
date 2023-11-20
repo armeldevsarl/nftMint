@@ -9,3 +9,6 @@ after testing? it reveals to run properly and all the different features are up 
 ##Contract address 
 * 0x793abf43b557635413df428e89375faccf3889b2
 
+##Link for more Info
+* https://sepolia.etherscan.io/address/0x793abf43b557635413df428e89375faccf3889b2
+
